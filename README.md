@@ -26,6 +26,8 @@
 
 [1932. 정수 삼각형](https://github.com/huequad/swift-algorithm/issues/15)
 
+[1912. 연속합](https://github.com/huequad/swift-algorithm/issues/17)
+
 #### LeetCode
 
 [1277. Count Square Submatrices with All Ones](https://github.com/huequad/swift-algorithm/issues/9)
