@@ -36,7 +36,7 @@
 
 #### Programmers
 
-
+[42895. N으로표현](https://github.com/huequad/swift-algorithm/issues/14)
 
 ## DFS/BFS
 
