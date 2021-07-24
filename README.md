@@ -28,6 +28,8 @@
 
 [1912. 연속합](https://github.com/huequad/swift-algorithm/issues/17)
 
+[1012. 유기농 배추](https://github.com/huequad/swift-algorithm/issues/22)
+
 #### LeetCode
 
 [1277. Count Square Submatrices with All Ones](https://github.com/huequad/swift-algorithm/issues/9)
