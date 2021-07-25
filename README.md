@@ -43,6 +43,8 @@
 #### BOJ
 [1012. 유기농 배추](https://github.com/huequad/swift-algorithm/issues/22)
 
+[1697. 숨바꼭질](https://github.com/huequad/swift-algorithm/issues/20)
+
 #### LeetCode
 [111. Minimum Depth of Binary Tree](https://github.com/huequad/swift-algorithm/issues/3)
 
