@@ -6,6 +6,8 @@
 
 [11000. 강의실 배정](https://github.com/huequad/swift-algorithm/issues/10)
 
+[13164. 행복 유치원](https://github.com/huequad/swift-algorithm/issues/28)
+
 [1541. 잃어버린 괄호](https://github.com/huequad/swift-algorithm/issues/6)
 
 #### LeetCode
