@@ -20,6 +20,8 @@
 
 [42883. 큰 수 만들기](https://github.com/huequad/swift-algorithm/issues/8)
 
+[42860. 조이스틱](https://github.com/huequad/swift-algorithm/issues/31)
+
 ## Dynamic Programming
 
 #### BOJ
